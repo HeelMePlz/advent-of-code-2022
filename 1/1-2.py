@@ -14,6 +14,9 @@ with open("input.txt") as input:
             elf_inventory = []
         else:
             elf_inventory.append(int(item))
+    
+    total_inventory.append(elf_inventory)
+    elf_inventory = []
 
 # Find Elf carrying most Calories
 
