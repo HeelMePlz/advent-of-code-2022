@@ -1,4 +1,5 @@
 # advent-of-code-2022
 
 - [x] Day 1
-- [ ] Day 2
+- [x] Day 2
+- [ ] Day 3
